@@ -1,2 +1,2 @@
 # DiscordWebhookTester
-Test out you discord webhooks.
+Test out your discord webhooks.
